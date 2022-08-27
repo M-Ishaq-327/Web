@@ -1,0 +1,63 @@
+body{ margin: 0px;
+    text-align: center;
+
+}
+.top { position: relative;
+padding: 100px;
+}
+.first-cloud { position: absolute;
+top: 50px;
+right: 300px;}
+
+.h1{ width: 10%;
+    text-align: center;
+    line-height: 2;
+    color: #66BFBF;
+    font-family: cursive;
+    font-size: 5.625rem;
+margin: 50px auto 0 300px;
+}
+p { font-family: cursive;
+    weight: normal;
+    color: #66BFBF;
+    font-size: 2rem;
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+.mountain { display: inline-block;
+margin: 0px auto;
+}
+.second-cloud { position: absolute;
+    left: 300px;
+    bottom: 300pxs;
+}
+
+.profile img {border-radius: 50%;
+}
+.skill-row { width: 50%;
+}
+
+.chillies { float: left;
+    display: inline-block;
+    
+}
+.skill-row .h3 { text-align: center;
+    font-size: 500px;
+    
+}
+.computer { float: left
+    ;}
+
+.skill-row p  { position: relative;
+    width: justify;
+    margin-top: -50px;
+
+left: 400px;
+}
+
+.skill-row .computer { border-radius: 50%;
+    float: right;
+}
+.middle-container hr { border-top: 2px dotted black;
+width: 30%; }
